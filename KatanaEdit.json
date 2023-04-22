@@ -1,10 +1,10 @@
-﻿{
-    "name": "KatanaEdit",
-    "description": "A theme",
+{
+    "name": "Katana",
+    "description": "A theme made by Vodka Martini",
     "authors": [
         {
-            "name": "Haku",
-            "id": "875593949102891069"
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
         }
     ],
   "spec": 2,
@@ -165,9 +165,9 @@
     },
   
       "background": {
-    "blur": 0.6, 
+    "blur": 0.6,
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
-    "alpha": 0.8
-   },
+    "alpha": 0.4
+    },
     "color": "#4d4463"
 }
